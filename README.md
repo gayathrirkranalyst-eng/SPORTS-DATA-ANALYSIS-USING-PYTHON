@@ -94,3 +94,9 @@ Scikit-learn – Machine learning
 SciPy – Statistical testing
 
 Statsmodels – Statistical modeling
+
+**Conclusion**
+
+The analysis identified key trends and patterns in sports data, including player performance differences, correlations between statistics, and clusters of similar player profiles. It also highlighted important factors influencing performance outcomes through statistical analysis and machine learning models.
+
+These insights can be presented to stakeholders using visualizations, summary metrics, and predictive results to support decisions in player evaluation, team strategy, talent identification, and performance improvement. Overall, the project enables data-driven decision-making in sports analytics.
